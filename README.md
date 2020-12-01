@@ -44,7 +44,7 @@
   <tr>
     <td><b>Pertemuan 10</b></td>
     <td>Lab 6</td>
-    <td><a href="">Klik disini</td>
+    <td><a href="https://github.com/IlhamLamp/Lab-6">Klik disini</td>
   </tr>
 </table>
 
