@@ -1,0 +1,2 @@
+#menampung data mahasiswa
+mahasiswa = {}
